@@ -1,0 +1,80 @@
+.prgress-bar, .prgress-bar-2, .prgress-bar-3, .prgress-bar-4, .prgress-bar-5, .prgress-bar-6, .antrag-complete, .uebersicht {
+    width: 90px;
+    height: 90px;
+    border-radius: 50%;
+    background: radial-gradient(closest-side, #F2F8FC 93%, transparent 80% 100%), 
+    conic-gradient(#0074C2 16.6%, rgba(0,46,102, 0.2) 0);/* */
+}
+.prgress-bar span, .prgress-bar-2 span, .prgress-bar-3 span, .prgress-bar-4 span, .prgress-bar-5 span, .prgress-bar-6 span, .antrag-complete span{
+    color: #002E66;
+    font-size: 2.5rem;
+}
+.antrag-complete span{
+    font-size: 3rem;
+}
+.uebersicht span img{
+    width:45px;height:40px;
+}
+.prgress-bar-2{
+    background: radial-gradient(closest-side, #F2F8FC 93%, transparent 80% 100%), 
+    conic-gradient(#0074C2 33.2%, rgba(0,46,102, 0.2) 0);
+}
+.prgress-bar-3{
+    background: radial-gradient(closest-side, #F2F8FC 93%, transparent 80% 100%), 
+    conic-gradient(#0074C2 49.8%, rgba(0,46,102, 0.2) 0);
+}
+.prgress-bar-4{
+    background: radial-gradient(closest-side, #F2F8FC 93%, transparent 80% 100%),  
+    conic-gradient(#0074C2 66.4%, rgba(0,46,102, 0.2) 0);
+}
+.prgress-bar-5{
+    background: radial-gradient(closest-side, #F2F8FC 93%, transparent 80% 100%), 
+    conic-gradient(#0074C2 83%, rgba(0,46,102, 0.2) 0);
+}
+.prgress-bar-6{
+    background: radial-gradient(closest-side, #F2F8FC 93%, transparent 80% 100%), 
+    conic-gradient(#0074C2 100%, rgba(0,46,102, 0.2) 0);
+}
+.antrag-complete{
+    background: linear-gradient(to right, #002D62 , #0072BC), 
+    conic-gradient(#002D62 100%, rgba(0,46,102, 0.2) 0);
+}
+.uebersicht{
+    background: linear-gradient(to right, #002D62 , #0072BC), 
+    conic-gradient(#002D62 100%, rgba(0,46,102, 0.2) 0);
+}
+
+
+a{
+    font-family: 'RubikRegular';
+}
+@media (max-width: 992px) {
+    .md\:ms-3{
+        margin-left: 0em;
+    }
+    .md\:me-3{
+        margin-right: 0em;
+    }
+    .md\:justify-center{
+        justify-content: center;
+    }
+    .md\:flex-direction{
+        flex-direction: column;
+    }
+    .md\:align-c{
+        
+        text-align: center;
+    }
+
+}
+@media (min-width: 992px) {
+    .lg\:ms-3{
+        margin-left: 2em;
+    }
+    .lg\:me-3{
+        margin-right: 2em;
+    }
+    .lg\:justify-between{
+        justify-content: space-between;
+    }
+}

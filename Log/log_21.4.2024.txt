@@ -1,0 +1,52 @@
+-----------------------2024-04-21 09:43:12-----------------------
+   Page1 =>  Raimund Fuchs | baufuchs24@web.de | +4995432548007 | Bayern
+-----------------------2024-04-21 10:28:09-----------------------
+   Page1 =>  Judit Narai | judit@sashomestaging.com | +491623632807 | Brandenburg
+   Page2 =>  Jahr der Gründung:  2024 | Tätigkeits:  Homestaging
+   Page3 =>  Art: Juniorenmitgliedschaft
+   Page4 =>  done..
+   Page5 =>  Done..
+   Page6 =>  Zahlungsart: sepa
+   Übersicht =>  Verband: IVD Berlin-Brandenburg | Verband E-mailid: info@ivd.berlin | Antragsteller E-Mailid: judit@sashomestaging.com
+   -----------------
+ 1. E-Mail sent from: info@immobilie1.de
+2. Betreff: immobilie1 AG
+3. E-Mail sent to: info@ivd.berlin
+4. Verband: IVD Berlin-Brandenburg
+5. Subjekt: Neue Registrierung zur IVD-Mitgliedschaft über den digitalen Aufnahmeantrag
+6. Response: 1
+-------------------------------
+   -----------------
+ 1. E-Mail sent from: info@ivd.berlin
+2. Betreff: Vielen Dank für Ihr Interesse am IVD Berlin-Brandenburg
+3. E-Mail sent to: judit@sashomestaging.com
+4. Verband: IVD Berlin-Brandenburg
+5. Subjekt: Ihr digitaler Mitgliedsantrag ist eingegangen
+6. Response: 1
+-------------------------------
+Mail sent successfully..
+-----------------------2024-04-21 17:34:05-----------------------
+   Page1 =>  Omar Shahda | business.omar1@gmail.com | +4917643467111 | Baden-Württemberg
+   Page2 =>  Jahr der Gründung:  2022 | Tätigkeits:  Verwalter,  Bauträger / Baubetreuung,  Projektentwicklung
+   Page3 =>  Art: Juniorenmitgliedschaft
+   Page4 =>  done..
+   Page5 =>  Done..
+   Page6 =>  Zahlungsart: rechnung
+   Übersicht =>  Verband: IVD Süd BW | Verband E-mailid: info@ivd-sued-bw.net | Antragsteller E-Mailid: business.omar1@gmail.com
+   -----------------
+ 1. E-Mail sent from: info@immobilie1.de
+2. Betreff: immobilie1 AG
+3. E-Mail sent to: info@ivd-sued-bw.net
+4. Verband: IVD Süd BW
+5. Subjekt: Neue Registrierung zur IVD-Mitgliedschaft über den digitalen Aufnahmeantrag
+6. Response: 1
+-------------------------------
+   -----------------
+ 1. E-Mail sent from: info@ivd-sued-bw.net
+2. Betreff: Vielen Dank für Ihr Interesse am IVD Süd BW
+3. E-Mail sent to: business.omar1@gmail.com
+4. Verband: IVD Süd BW
+5. Subjekt: Ihr digitaler Mitgliedsantrag ist eingegangen
+6. Response: 1
+-------------------------------
+Mail sent successfully..

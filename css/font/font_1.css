@@ -1,0 +1,185 @@
+/* latin */
+@font-face {
+  font-family: 'Arvo';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('/var/www/html/ivdreg/css/font/Arvo/Arvo-Regular.ttf') format('truetype');
+}
+
+/* latin */
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('/var/www/html/ivdreg/css/font/Lato/Lato-Regular.ttf') format('truetype');
+}
+/* latin */
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url('/var/www/html/ivdreg/css/font/Poppins/Poppins-Regular.ttf') format('truetype');
+}
+/* cyrillic-ext */
+@font-face {
+  font-family: 'Rubik';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('/var/www/html/ivdreg/css/font/Rubik/static/Rubik-Regular.ttf') format('truetype');
+}
+/* cyrillic */
+@font-face {
+  font-family: 'Rubik';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('/var/www/html/ivdreg/css/font/Rubik/static/Rubik-Regular.ttf') format('truetype');
+}
+/* hebrew */
+@font-face {
+  font-family: 'Rubik';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('/ivdreg/css/font/Arvo/Arvo-Regular.ttf') format('truetype');
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Rubik';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('/ivdreg/css/font/Arvo/Arvo-Regular.ttf') format('truetype');
+}
+/* latin */
+@font-face {
+  font-family: 'Rubik';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('/ivdreg/css/font/Arvo/Arvo-Regular.ttf') format('truetype');
+}
+/* cyrillic-ext */
+@font-face {
+  font-family: 'Rubik';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url('/ivdreg/css/font/Arvo/Arvo-Regular.ttf') format('truetype');
+}
+/* cyrillic */
+@font-face {
+  font-family: 'Rubik';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url('/ivdreg/css/font/Arvo/Arvo-Regular.ttf') format('truetype');
+}
+/* hebrew */
+@font-face {
+  font-family: 'Rubik';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url('/ivdreg/css/font/Arvo/Arvo-Regular.ttf') format('truetype');
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Rubik';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url('/ivdreg/css/font/Arvo/Arvo-Regular.ttf') format('truetype');
+}
+/* latin */
+@font-face {
+  font-family: 'Rubik';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url('/ivdreg/css/font/Arvo/Arvo-Regular.ttf') format('truetype');
+}
+/* cyrillic-ext */
+@font-face {
+  font-family: 'Rubik';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url('/ivdreg/css/font/Arvo/Arvo-Regular.ttf') format('truetype');
+}
+/* cyrillic */
+@font-face {
+  font-family: 'Rubik';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url('/ivdreg/css/font/Arvo/Arvo-Regular.ttf') format('truetype');
+}
+/* hebrew */
+@font-face {
+  font-family: 'Rubik';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url('/ivdreg/css/font/Arvo/Arvo-Regular.ttf') format('truetype');
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Rubik';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url('/ivdreg/css/font/Arvo/Arvo-Regular.ttf') format('truetype');
+}
+/* latin */
+@font-face {
+  font-family: 'Rubik';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url('/ivdreg/css/font/Arvo/Arvo-Regular.ttf') format('truetype');
+}
+/* cyrillic-ext */
+@font-face {
+  font-family: 'Rubik';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url('/ivdreg/css/font/Arvo/Arvo-Regular.ttf') format('truetype');
+}
+/* cyrillic */
+@font-face {
+  font-family: 'Rubik';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url('/ivdreg/css/font/Arvo/Arvo-Regular.ttf') format('truetype');
+}
+/* hebrew */
+@font-face {
+  font-family: 'Rubik';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url('/ivdreg/css/font/Arvo/Arvo-Regular.ttf') format('truetype');
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Rubik';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url('/ivdreg/css/font/Arvo/Arvo-Regular.ttf') format('truetype');
+}
+/* latin */
+@font-face {
+  font-family: 'Rubik';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url('/ivdreg/css/font/Arvo/Arvo-Regular.ttf') format('truetype');
+}

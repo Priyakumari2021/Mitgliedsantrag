@@ -1,0 +1,35 @@
+-----------------------2024-03-23 15:42:07-----------------------
+   Page1 =>  Ahmet Kilic | ahmet-kilic@live.de | 017663023851 | Berlin
+-----------------------2024-03-23 15:42:08-----------------------
+   Page1 =>  Ahmet Kilic | ahmet-kilic@live.de | 017663023851 | Berlin
+-----------------------2024-03-23 20:51:55-----------------------
+   Page1 =>  Michael Käppel | info@kaeppel-immobilien.de | 0159 063 130 99 | Berlin
+   Page2 =>  Jahr der Gründung:  2024 | Tätigkeits: Makler,  Verwalter
+   Page2 =>  Jahr der Gründung:  2024  | Tätigkeits: Makler,  Verwalter
+   Page3 =>  Art: erstes-Jahr
+   Page4 =>  done..
+   Page5 =>  Done..
+   Page6 =>  Zahlungsart: rechnung
+   Page2 =>  Jahr der Gründung:  2024   | Tätigkeits: Makler,  Verwalter
+   Page3 =>  Art: erstes-Jahr
+   Page4 =>  done..
+   Page5 =>  Done..
+   Page6 =>  Zahlungsart: rechnung
+   Übersicht =>  Verband: IVD Berlin-Brandenburg | Verband E-mailid: info@ivd.berlin | Antragsteller E-Mailid: info@kaeppel-immobilien.de
+   -----------------
+ 1. E-Mail sent from: info@immobilie1.de
+2. Betreff: immobilie1 AG
+3. E-Mail sent to: info@ivd.berlin
+4. Verband: IVD Berlin-Brandenburg
+5. Subjekt: Neue Registrierung zur IVD-Mitgliedschaft über den digitalen Aufnahmeantrag
+6. Response: 1
+-------------------------------
+   -----------------
+ 1. E-Mail sent from: info@ivd.berlin
+2. Betreff: Vielen Dank für Ihr Interesse am IVD Berlin-Brandenburg
+3. E-Mail sent to: info@kaeppel-immobilien.de
+4. Verband: IVD Berlin-Brandenburg
+5. Subjekt: Ihr digitaler Mitgliedsantrag ist eingegangen
+6. Response: 1
+-------------------------------
+Mail sent successfully..

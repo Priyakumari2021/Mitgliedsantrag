@@ -1,0 +1,81 @@
+-----------------------2024-06-03 06:03:42-----------------------
+   Page1 =>  Katharina Harder | info@immobilien-harder.de | 01722622861 | Schleswig-Holstein
+   Page2 =>  Jahr der Gründung:  2018 | Tätigkeits: Makler,  Verwalter
+-----------------------2024-06-03 10:15:15-----------------------
+   Page1 =>  Alexander Upenek | au@immobilien-finanzierung.berlin | +4930220116141 | Berlin
+   Page2 =>  Jahr der Gründung:  2022 | Tätigkeits: Makler,  IVD / AVD Vermittler
+   Page3 =>  Art: zweites-Jahr
+   Page4 =>  done..
+   Page5 =>  Done..
+   Page6 =>  Zahlungsart: sepa
+   Übersicht =>  Verband: IVD Berlin-Brandenburg | Verband E-mailid: info@ivd.berlin | Antragsteller E-Mailid: au@immobilien-finanzierung.berlin
+   -----------------
+ 1. E-Mail sent from: info@immobilie1.de
+2. Betreff: immobilie1 AG
+3. E-Mail sent to: info@ivd.berlin
+4. Verband: IVD Berlin-Brandenburg
+5. Subjekt: Neue Registrierung zur IVD-Mitgliedschaft über den digitalen Aufnahmeantrag
+6. Response: 1
+-------------------------------
+   -----------------
+ 1. E-Mail sent from: info@ivd.berlin
+2. Betreff: Vielen Dank für Ihr Interesse am IVD Berlin-Brandenburg
+3. E-Mail sent to: au@immobilien-finanzierung.berlin
+4. Verband: IVD Berlin-Brandenburg
+5. Subjekt: Ihr digitaler Mitgliedsantrag ist eingegangen
+6. Response: 1
+-------------------------------
+Mail sent successfully..
+-----------------------2024-06-03 11:22:03-----------------------
+   Page1 =>  Anja Gericke | anja.gericke@gmail.com | 01723155733 | Berlin
+   Page2 =>  Jahr der Gründung:  2024 | Tätigkeits:  Verwalter
+   Page3 =>  Art: erstes-Jahr
+   Page4 =>  done..
+   Page5 =>  Done..
+   Page6 =>  Zahlungsart: sepa
+   Übersicht =>  Verband: IVD Berlin-Brandenburg | Verband E-mailid: info@ivd.berlin | Antragsteller E-Mailid: anja.gericke@gmail.com
+   -----------------
+ 1. E-Mail sent from: info@immobilie1.de
+2. Betreff: immobilie1 AG
+3. E-Mail sent to: info@ivd.berlin
+4. Verband: IVD Berlin-Brandenburg
+5. Subjekt: Neue Registrierung zur IVD-Mitgliedschaft über den digitalen Aufnahmeantrag
+6. Response: 1
+-------------------------------
+   -----------------
+ 1. E-Mail sent from: info@ivd.berlin
+2. Betreff: Vielen Dank für Ihr Interesse am IVD Berlin-Brandenburg
+3. E-Mail sent to: anja.gericke@gmail.com
+4. Verband: IVD Berlin-Brandenburg
+5. Subjekt: Ihr digitaler Mitgliedsantrag ist eingegangen
+6. Response: 1
+-------------------------------
+Mail sent successfully..
+-----------------------2024-06-03 16:02:20-----------------------
+   Page1 =>  Eleonore Fischer | e.fischer@eleonore-fischer-immobilien.de | 09081 8053290 | Bayern
+   Page2 =>  Jahr der Gründung:  2023 | Tätigkeits: Makler
+-----------------------2024-06-03 16:06:29-----------------------
+   Page1 =>  Eleonore Fischer | e.fischer@eleonore-fischer-immobilien.de | 09081 8053290 | Bayern
+   Page2 =>  Jahr der Gründung:  2023  | Tätigkeits: Makler
+   Page3 =>  Art: zweites-Jahr
+   Page4 =>  done..
+   Page5 =>  Done..
+   Page6 =>  Zahlungsart: sepa
+   Übersicht =>  Verband: IVD Süd | Verband E-mailid: info@ivd-sued.net | Antragsteller E-Mailid: e.fischer@eleonore-fischer-immobilien.de
+   -----------------
+ 1. E-Mail sent from: info@immobilie1.de
+2. Betreff: immobilie1 AG
+3. E-Mail sent to: info@ivd-sued.net
+4. Verband: IVD Süd
+5. Subjekt: Neue Registrierung zur IVD-Mitgliedschaft über den digitalen Aufnahmeantrag
+6. Response: 1
+-------------------------------
+   -----------------
+ 1. E-Mail sent from: info@ivd-sued.net
+2. Betreff: Vielen Dank für Ihr Interesse am IVD Süd
+3. E-Mail sent to: e.fischer@eleonore-fischer-immobilien.de
+4. Verband: IVD Süd
+5. Subjekt: Ihr digitaler Mitgliedsantrag ist eingegangen
+6. Response: 1
+-------------------------------
+Mail sent successfully..

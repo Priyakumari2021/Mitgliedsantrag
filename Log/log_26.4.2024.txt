@@ -1,0 +1,38 @@
+-----------------------2024-04-26 08:50:07-----------------------
+   Page1 =>  Matthias Wörwag | matthias.woerwag@ksklb.de | 07141148-5891 | Baden-Württemberg
+-----------------------2024-04-26 11:31:03-----------------------
+   Page1 =>  Ramon Buchenau | info@immobilien-buchenau.de | 084112816124 | Bayern
+   Page2 =>  Jahr der Gründung:  2015 | Tätigkeits: Makler
+   Page3 =>  Art: ordentlich-mitglied
+   Page4 =>  done..
+   Page5 =>  Done..
+   Page6 =>  Zahlungsart: sepa
+   Page5 =>  Done..
+-----------------------2024-04-26 11:54:29-----------------------
+   Page1 =>  Ramon Buchenau | info@immobilien-buchenau.de | 084112816124 | Bayern
+   Page2 =>  Jahr der Gründung: 2015 | Tätigkeits: Makler
+   Page3 =>  Art: ordentlich-mitglied
+   Page4 =>  done..
+   Page5 =>  Done..
+   Page6 =>  Zahlungsart: sepa
+   Übersicht =>  Verband: IVD Süd | Verband E-mailid: info@ivd-sued.net | Antragsteller E-Mailid: info@immobilien-buchenau.de
+   -----------------
+ 1. E-Mail sent from: info@immobilie1.de
+2. Betreff: immobilie1 AG
+3. E-Mail sent to: info@ivd-sued.net
+4. Verband: IVD Süd
+5. Subjekt: Neue Registrierung zur IVD-Mitgliedschaft über den digitalen Aufnahmeantrag
+6. Response: 1
+-------------------------------
+   -----------------
+ 1. E-Mail sent from: info@ivd-sued.net
+2. Betreff: Vielen Dank für Ihr Interesse am IVD Süd
+3. E-Mail sent to: info@immobilien-buchenau.de
+4. Verband: IVD Süd
+5. Subjekt: Ihr digitaler Mitgliedsantrag ist eingegangen
+6. Response: 1
+-------------------------------
+Mail sent successfully..
+-----------------------2024-04-26 13:27:18-----------------------
+   Page1 =>  Nils  Werner | werner@ivd.berlin | +49 151 19516262 | Berlin
+   Page2 =>  Jahr der Gründung:  1998 | Tätigkeits:  Investor
